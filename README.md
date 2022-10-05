@@ -1,2 +1,2 @@
 # SistemaEnvioDeEmail
-Repositório criado para projeto de sistema de envio de email utilizando API da MAILJET
+Repositório criado para projeto de sistema de envio de email utilizando API do SENDGRID
